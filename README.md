@@ -1,6 +1,7 @@
 # Ethereum101
 TLDR: Presentación para poner rápido en contexto a nuevos en el blockchain.
 
+## Método de trabajo
 Enfocada en aplicar esqueumorfismo a keywords populares sobre blockchain en los medios como periódicos, tv, noticias, artículos web, YouTube, redes sociales, etc...
 
 Ejm: El blockchain es una base de datos, tal como una hoja de cálculo/excel. Asumiendo que quien consume la presentación, sabe que es una hoja de cálculo/excel. Encontrar estos conocimientos base para partir creo que es la clave para que los oyentes entiendan a Ethereum y puedan disfrutar de eventos como charlas, talleres y convenciones, así como tener sus propias ideas y armados de keywords tener la opción de participar en la comunidad y cocrear sus propias experiencias.
