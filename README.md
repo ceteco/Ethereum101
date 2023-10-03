@@ -1,7 +1,7 @@
 # Ethereum101
 TLDR: Presentación para poner rápido en contexto a nuevos en el blockchain.
 
-## Método de trabajo
+## Como contribuír a esta presentación
 Aplicar esqueumorfismo a keywords populares sobre blockchain en los medios como periódicos, tv, noticias, artículos web, YouTube, redes sociales, etc...
 
 *Ejm: El blockchain es una base de datos, tal como una hoja de cálculo/excel.* 
