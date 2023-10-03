@@ -1,5 +1,5 @@
 # Ethereum101
-Presentación para poner rápido en contexto a nuevos en el blockchain.
+TLDR: Presentación para poner rápido en contexto a nuevos en el blockchain.
 
 Enfocada en aplicar esqueumorfismo a keywords populares sobre blockchain en los medios como periódicos, tv, noticias, artículos web, YouTube, redes sociales, etc...
 
