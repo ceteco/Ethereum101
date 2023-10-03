@@ -7,8 +7,8 @@ Ejm: El blockchain es una base de datos, tal como una hoja de cálculo/excel. As
 
 La presentación va alineada a los valores que se difundieron en la talk de usuarios de web3 "Coming from web2 and the "user" perspective" de DEVCON COLOMBIA 2022 12 Oct
 
-Cosas a tener en cuenta en el cambio de perspectiva:
-- Diferencias entre usuarios y participantes
+Cosas a tener en cuenta en el cambio de perspectiva de web2 a web3:
+- Diferencias entre usuarios(web2) y participantes(web3)
 - 🍻 Permitir a la gente que pueda cocrear contigo las experiencias que quiere
 - Crear nuevos términos como: DAO, souldbound tokens, stables, etc... en realidad aliena a la gente de poder unirse
 - 🧱 Dar a los nuevos una opción, en vez de no explicar qué es una serpiente y arrojarles al foso lleno de serpientes
