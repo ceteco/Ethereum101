@@ -9,6 +9,6 @@ La presentación va alineada a los valores que se difundieron en la talk de usua
 
 Cosas a tener en cuenta en el cambio de perspectiva:
 - Diferencias entre usuarios y participantes
-- 🍻 Permite que la gente pueda cocrear contigo las experiencias que quiere
+- 🍻 Permitir a la gente que pueda cocrear contigo las experiencias que quiere
 - Crear nuevos términos como: DAO, souldbound tokens, stables, etc... en realidad aliena a la gente de poder unirse
-- 🧱 Darle a la gente una opción, en vez de no explicar qué es una serpiente y arrojarles al foso lleno de serpientes
+- 🧱 Dar a los nuevos una opción, en vez de no explicar qué es una serpiente y arrojarles al foso lleno de serpientes
