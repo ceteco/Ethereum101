@@ -2,7 +2,7 @@
 Otra diferencia con una hoja de excel o base de datos tradicional, es que el blockchain solamente tiene habilitados permisos de lectura.
 
   - **Esqueumórficos de blockchain:** 
-*Libro contable, ledger:* <- No todos están familiarizados, término más amistoso para personas sin literacidad computacional.
+  - *Libro contable, ledger:* <- No todos están familiarizados, término más amistoso para personas sin literacidad computacional.
   - *Excel:* Sí estamos esperando que sepan manejar celulares y sistemas operativos de PC, es bastante probable que tengan nivel de Office y haber visto o usado alguna vez una hoja de cálculo.
   - *Base de datos:* Como MySQL puede familiarizar bastante a una audiencia que trabaja en sistemas computacionales, tal como alumnos de Sistemas y afines
 
