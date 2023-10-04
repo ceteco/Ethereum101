@@ -17,3 +17,5 @@ Otra diferencia con una hoja de excel o base de datos tradicional, es que el blo
 *Número de cuenta de banco:* <- Muy posible que todos estén familiarizados.
 
 ## El primer conjunto de estas tres keywords: Blockchain, token y address se llamó Bitcoin. El nombre de su token es BTC
+
+(Se puede preguntar a los participantes que cosas se les ocurre hacer con una base de datos así de limitada. Sí después de 7 segundos nadie contesta, se puede sugerir como un ejercicio para pensar ¿Que pasaría de implementarse en transacciones de un gobierno, obteniendo transparencia obligada por el sistema?
