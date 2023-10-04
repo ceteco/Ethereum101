@@ -10,11 +10,11 @@ Otra diferencia con una hoja de excel o base de datos tradicional, es que el blo
 
 - **Token:** A alguien se le ocurrió que puede guardar tokens representativos de valor para realizar intercambios de valor. 
   - **Esqueumórficos de token** 
-*Dinero:* <- Bastante posible que todos estén familiarizados.
+  - *Dinero:* <- Bastante posible que todos estén familiarizados.
 
 - **Adress** Dichos tokens, están enlazados a un address que es una cadena de caracteres hexadecimales. El address viene a ser similar a tu número de cuenta bancaria.
-   - **Esqueumórficos de address:** 
-*Número de cuenta de banco:* <- Muy posible que todos estén familiarizados.
+  - **Esqueumórficos de address:** 
+  - *Número de cuenta de banco:* <- Muy posible que todos estén familiarizados.
 
 ## El primer conjunto de estas tres keywords: Blockchain, token y address se llamó Bitcoin. El nombre de su token es BTC
 
