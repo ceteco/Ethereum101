@@ -8,7 +8,7 @@ Otra diferencia con una hoja de excel o base de datos tradicional, es que el blo
 
 # ¿Que se puede guardar en un blockchain?
 
-- **Token:** A alguien se le ocurrió que puede guardar tokens representativos de valor para realizar transacciones monetarias. 
+- **Token:** A alguien se le ocurrió que puede guardar tokens representativos de valor para realizar intercambios de valor. 
   - **Esqueumórficos de token:** 
 *Dinero:* <- Bastante posible que todos estén familiarizados.
 
