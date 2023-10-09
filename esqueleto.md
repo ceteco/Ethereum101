@@ -21,3 +21,22 @@ Otra diferencia con una hoja de excel o base de datos tradicional, es que el blo
 ## El primer conjunto de estas tres keywords: Blockchain, token y address se llamó Bitcoin. El nombre de su token es BTC
 
 (Se puede preguntar a los participantes que cosas se les ocurre hacer con una base de datos así de limitada. Sí después de 7 segundos nadie contesta, se puede sugerir como un ejercicio para pensar ¿Que pasaría de implementarse en transacciones de un gobierno, obteniendo transparencia obligada por el sistema?
+
+# ¿Que pasa sí a Bitcoin le agregamos la capacidad de guardar software?
+
+- **Nace Ethereum:** Es como Bitcoin, pero además de tokens y transacciones, también puede guardar software.
+
+  - **Esqueumórficos de Ethereum** 
+  - *Libro contable, ledger:* <- No todos }
+
+# ¿Como hace la red de Ethereum para ejecutar el Software?
+
+- **EVM/Ethereum Virtual Machine:** Se puede pensar como un servidor de Amazon Web Services, donde el desarrollador sube su programa y Amazon le cobra una tarifa por los gastos que incurra el uso del servidor. La diferencia con la EVM, es que cada quien se encarga de sus gastos por el uso de el blockchain de Ethereum y la EVM. Por ejemplo, el programador paga una tarifa única de gas para subir su aplicación. El usuario que quiera ejecutar dicha aplicación, paga gas para hacerlo. 
+
+- **Gas:** Pago de gastos por el uso de un blockchain. Este sube o baja dependiendo de cuán saturada se encuentre dicha red en ese momento. A mayor saturación, más caro el gas.
+
+# Ethereum con el tiempo ha ido adquiriendo muchos usuarios, lo cuál encarece el costo del gas
+
+- **L2 / Layer 2:** Soluciones para escalar Ethereum. Empaquetan muchas transacciones en un solo bloque y lo guardan en el blockchain de Ethereum, abaratando costos. Según la L2 que sea, puede tener diferentes desarrollos como ZK para aumentar seguridad, tecnología Optimism, transacciones más rápidas, etc...
+
+# Ejemplos de L2: Optimism, Arbitrum, Scroll
