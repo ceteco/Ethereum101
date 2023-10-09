@@ -22,14 +22,14 @@ Otra diferencia con una hoja de excel o base de datos tradicional, es que el blo
 
 (Se puede preguntar a los participantes que cosas se les ocurre hacer con una base de datos así de limitada. Sí después de 7 segundos nadie contesta, se puede sugerir como un ejercicio para pensar ¿Que pasaría de implementarse en transacciones de un gobierno, obteniendo transparencia obligada por el sistema?
 
-# ¿Que pasa sí a Bitcoin le agregamos la capacidad de guardar software?
+## ¿Que pasa sí a Bitcoin le agregamos la capacidad de guardar software?
 
 - **Nace Ethereum:** Es como Bitcoin, pero además de tokens y transacciones, también puede guardar software.
 
   - **Esqueumórficos de Ethereum** 
   - *Libro contable, ledger:* <- No todos }
 
-# ¿Como hace la red de Ethereum para ejecutar el Software?
+## ¿Como ejecuta la red de Ethereum el Software?
 
 - **EVM/Ethereum Virtual Machine:** Se puede pensar como un servidor de Amazon Web Services, donde el desarrollador sube su programa y Amazon le cobra una tarifa por los gastos que incurra el uso del servidor. La diferencia con la EVM, es que cada quien se encarga de sus gastos por el uso de el blockchain de Ethereum y la EVM. Por ejemplo, el programador paga una tarifa única de gas para subir su aplicación. El usuario que quiera ejecutar dicha aplicación, paga gas para hacerlo. 
 
