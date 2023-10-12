@@ -24,14 +24,16 @@ Otra diferencia con una hoja de excel o base de datos tradicional, es que el blo
 
 ## ¿Que pasa sí a Bitcoin le agregamos la capacidad de guardar software?
 
-- **Nace Ethereum:** Es como Bitcoin, pero además de tokens y transacciones, también puede guardar software.
+- **Nace Ethereum:** Es como Bitcoin, pero además de tokens y transacciones, también puede guardar software al cuál también se refieren como *Contratos inteligentes* (En realidad son aplicaciones escritas en lenguajes de programación como Solidity)
 
   - **Esqueumórficos de Ethereum** 
-  - *Libro contable, ledger:* <- No todos }
+  - Dinero Programable:* <- No todos }
 
 ## ¿Como ejecuta la red de Ethereum el Software?
 
-- **EVM/Ethereum Virtual Machine:** Se puede pensar como un servidor de Amazon Web Services, donde el desarrollador sube su programa y Amazon le cobra una tarifa por los gastos que incurra el uso del servidor. La diferencia con la EVM, es que cada quien se encarga de sus gastos por el uso de el blockchain de Ethereum y la EVM. Por ejemplo, el programador paga una tarifa única de gas para subir su aplicación. El usuario que quiera ejecutar dicha aplicación, paga gas para hacerlo. 
+- **EVM/Ethereum Virtual Machine:** Se puede pensar como un servidor de Amazon Web Services, donde el desarrollador sube su programa y Amazon le cobra una tarifa por los gastos que incurra el uso del servidor. La diferencia con la EVM, es que cada quien se encarga de sus gastos por el uso de el blockchain de Ethereum y la EVM. Por ejemplo, el programador paga una tarifa única de gas para subir su aplicación. El usuario que quiera ejecutar dicha aplicación, paga gas para hacerlo.
+
+## Como el dinero está guardado en el mismo lugar donde se ejecuta el software, esto dá lugar a novedosas aplicaciones financieras.
 
 - **Gas:** Pago de gastos por el uso de un blockchain. Este sube o baja dependiendo de cuán saturada se encuentre dicha red en ese momento. A mayor saturación, más caro el gas.
 
