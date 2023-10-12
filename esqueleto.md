@@ -39,6 +39,6 @@ Otra diferencia con una hoja de excel o base de datos tradicional, es que el blo
 
 # Ethereum con el tiempo ha ido adquiriendo muchos usuarios, lo cuál encarece el costo del gas
 
-- **L2 / Layer 2:** Soluciones para escalar Ethereum. Empaquetan muchas transacciones en un solo bloque y lo guardan en el blockchain de Ethereum, abaratando costos. Según la L2 que sea, puede tener diferentes desarrollos como ZK para aumentar seguridad, tecnología Optimism, transacciones más rápidas, etc...
+- **L2 / Layer 2:** Soluciones para escalar Ethereum. Empaquetan muchas transacciones en un solo bloque y lo guardan en el blockchain de Ethereum, abaratando costos. Según la L2 que sea, puede tener diferentes desarrollos como ZK para aumentar seguridad, tecnología Optimism, transacciones más rápidas, etc... Puedes imaginarlo como otro blockchain encima de Ethereum.
 
 # Ejemplos de L2: Optimism, Arbitrum, Scroll
