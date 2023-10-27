@@ -1,8 +1,5 @@
 # Ethereum101
-TLDR: Presentación para poner rápido en contexto a nuevos por medio de keywords populares y así puedan unirse a rápido a conversaciones, ideas y participación en el blockchain.
-
-
-I can give an Ethereum 101 presentation designed as a fast way (25 min ish) to get newcomers enabled with popular keywords, so they can join up conversations and ideas about blockchain
+TLDR: Presentación para poner rápido en contexto a nuevos por medio de keywords populares y así puedan unirse a rápido a conversaciones, ideas y participación en el blockchain
 
 
 ## Como contribuír a esta presentación
