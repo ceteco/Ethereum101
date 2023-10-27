@@ -1,5 +1,5 @@
 # Ethereum101
-TLDR: Presentación para poner rápido en contexto a nuevos por medio de keywords populares y así puedan unirse rapidamente a conversaciones, ideas y participación en el blockchain
+TLDR: Una breve introducción para que los recién llegados se pongan al día rápidamente, utilizando #keywords populares, y así puedan unirse fácilmente a las conversaciones, explorar ideas y participar en el emocionante mundo del blockchain
 
 
 ## Como contribuír a esta presentación
