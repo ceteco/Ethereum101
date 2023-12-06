@@ -14,7 +14,7 @@ Otra diferencia con una hoja de excel o base de datos tradicional, es que el blo
   - **Esqueumórficos de token** 
   - *Dinero:* <- Bastante posible que todos estén familiarizados.
 
-- **Adress** Dichos tokens, están enlazados a un address que es una cadena de caracteres hexadecimales. El address viene a ser similar a tu número de cuenta bancaria.
+- **Address** Dichos tokens, están enlazados a un address que es una cadena de caracteres hexadecimales. El address viene a ser similar a tu número de cuenta bancaria.
   - **Esqueumórficos de address** 
   - *Número de cuenta de banco:* <- Muy posible que todos estén familiarizados.
 
